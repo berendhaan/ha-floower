@@ -1,0 +1,16 @@
+{
+  "domain": "floower",
+  "name": "Floower",
+  "version": "0.1.0",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/floower",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@berendhaan"
+  ],
+  "iot_class": "cloud_polling"
+}
